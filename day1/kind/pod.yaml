@@ -66,3 +66,4 @@ spec:
 status:
   phase: Pending
   qosClass: BestEffort
+
